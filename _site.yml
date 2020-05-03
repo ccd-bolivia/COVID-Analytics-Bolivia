@@ -1,0 +1,17 @@
+name: "COVID Analytics Bolivia"
+output_dir: "."
+navbar:
+  title: "COVID Analytics Bolivia"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Catálogo"
+      href: catalogo.html
+    - text: "El equipo"
+      href: team.html  
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/ccd-bolivia/COVID-Analytics-Bolivia
+output:
+  html_document:
+    theme: flatly

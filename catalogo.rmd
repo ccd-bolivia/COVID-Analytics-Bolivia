@@ -1,0 +1,48 @@
+---
+title: "Catálogo"
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+<center>
+> Bienvenido al catálogo  de soluciones del equipo COVID Analytics Bolivia.
+
+</center>
+
+<center>
+<a href="catalogo.html">
+<img src="img/home-covid.jpg" style="width:80%; margin-left: 20px" align="center">
+</a>
+</center>
+<br>
+
+# {.tabset .tabset-pills}
+
+## __Dashboards__{.tabset}
+
+> Resumenes visuales concretos y actualizados de la información estadística disponible y relevante respecto al COVID19 en Bolivia.
+
+* [COVID Analytics Bolivia](catalogo.nb.html): Dashboard con información histórica y geográfica actualizada sobre casos positivos, decesos, recuperaciones y casos activos del COVID19 en Bolivia a nivel: nacional, departamental y municipal.
+
+## __Reportes analíticos__ {.tabset}
+
+> Reportes de investigación analítica sobre distintias temáticas respecto a los problemas relacionados con el COVID19 en Bolivia.
+
+* [Proyección de contagiados ](catalogo.nb.html): Análisis de proyecciones de contagios. Se consideran distintas alternativas describiendo los supuestos de modelación en cada caso. 
+
+## __Productos analíticos__ {.tabset}
+
+> Implementación tecnológica de modelos analíticos avanzados en entornos de producción para resolver distintos problemas relacionados con el COVID19 en Bolivia.
+
+* [Monitoreo de distanciamiento inteligente](catalogo.nb.html): Servicio de monitoreo de distinaciamiento inteligente a partir de cámaras de vigilancia y tecnologias de visión computacional e intenligencia artificial __(EN DESAROLLO)__.
+
+## __Repositorio de datos__
+
+> Espacio centralizado donde se almacena, organiza, mantiene y difunden datos abiertos respecto al COVID19 en Bolivia.
+
+* [Repositorio COVID Bolivia](https://github.com/mavino4/TestAutoCommit): Contiene información historica y actualizada sobre casos positivos, decesos, recuperaciones y casos activos del COVID19 en Bolivia a nivel: nacional, departamental y municipal. Todos los datos fueron extraidos de forma directa o indirecta de fuentes oficiales. 
+
+
+

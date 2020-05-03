@@ -1,0 +1,34 @@
+---
+title: "COVID Analytics Bolivia"
+---
+<style>
+body {
+text-align: justify}
+</style>
+
+> COVID Analytics Bolivia es una iniciativa ciudadana en busca de soluciones analíticas para los distintos problemas que estamos viviendo en el país relacionados con el COVID-19. Creemos en el trabajo colaborativo y que la mejor forma de generar soluciones efectivas es a través del desarrollo e incentivo del conocimiento colectivo. 
+
+<center>
+<a href="catalogo.html">
+<img src="img/home-covid.jpg" style="width:80%; margin-left: 20px" align="center">
+</a>
+</center>
+<br>
+
+> ¿En qué estamos trabajando? Revisa nuestro [__catálogo__](catalogo.html) para estar al tanto.
+
+
+# Organizaciones colaboradoras
+
+COVID Analytics Bolivia es una realidad gracias al apoyo de las siguientes organizaciones:
+
+<br>
+<center>
+<a href="https://www.facebook.com/ccd.bolivia.bo">
+<img src="img/ccd-bo-tri.png" style="width:30%; margin-left: 20px" align="center">
+</a>
+</center>
+
+# ¡Ponte en contacto!
+
+> ¿Te interesa colaborar o compartir ideas? No dudes en escribirnos al correo ccd.bolivia.bo@gmail.com

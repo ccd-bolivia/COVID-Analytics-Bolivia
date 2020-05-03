@@ -1,0 +1,189 @@
+---
+title: "Sobre el equipo"
+---
+<style>
+body {
+text-align: justify}
+.col25{
+  float: left;
+  width: 25%;
+}
+.col100{
+  float: left;
+  width: 100%;
+}
+figure {
+  padding: 5px;
+}
+figcaption {
+  background: rgba(0, 0, 0, 0.5);
+  color: #FFF;
+  font-style: oblique;
+  text-align: center;
+}
+</style>
+
+> _Los resultados de COVID Analytics Bolivia son una realidad gracias al trabajo de un equipo multidiciplinario. El equipo esta conformado por varios ciudadanos voluntarios preocupados por la situación actual que estamos viviendo. Si quieres sumarte al equipo no dudes en escribirnos al correo ccd.bolivia.bo@gmail.com_
+
+<center>
+<img src="img/team.jpg" style="width:90%; margin-left: 20px" align="center">
+</center>
+<br>
+
+## Grupos de acción
+
+Para generar resultados el equipo COVID Analytics Bolivia se concentra en los siguientes grupos de acción:
+
+* __Relacionamiento:__ Generamos lazos colaborativos con personas naturales y organizaciones públicas o privadas que dispongan o esten generando datos útiles para el desarrollo soluciones analíticas.
+
+* __Ingeniería de datos__ Efectuamos la recoleción, preparación y distribución de automática datos promoviendo buenas prácticas de gestion de datos abiertos.
+
+* __Análisis y visualización datos__ Generamos y comunicamos de forma visual y/o escrita hallazgos relevantes basados en datos a partir procesos de investigación ágiles.
+
+* __Desarrollo de productos analíticos__ Desarrollamos productos analiticos implementando modelos estadistico matemáticos en entornos de producción. Aplicamos conocimientos de Ciencia de Datos, Visión computacional e Inteligencia Artificial.
+
+* __Gestión analítica__ Analizamos problemas de forma sistémica, incentivamos la colaboración y canalizamos los esfuerzos del equipo para generar soluciones significativas.
+
+## Equipo de voluntarios
+
+<center>
+> _¡Conoce y ponte en contacto con los miembros del equipo COVID Analytics Bolivia!_
+
+</center>
+
+<div class="col100">
+
+<div class="col25">
+<figure>
+<a href="https://www.linkedin.com/in/josemiguelmolinafernandez/">
+<img src="img/profile.png" style="width:100%" align="left">
+</a>
+<figcaption>José Miguel Molina</figcaption>
+</figure>
+</div>
+
+<div class="col25">
+<figure>
+<a href="https://www.linkedin.com/in/gabriela-claudia-arteaga-brouset-b5464996/">
+<img src="img/profile.png" style="width:100%" align="left">
+</a>
+<figcaption>Gabriela Arteaga</figcaption>
+</figure>
+</div>
+
+<div class="col25">
+<figure>
+<a href="https://www.linkedin.com/in/rmibeyuma10/">
+<img src="img/profile.png" style="width:100%" align="left">
+</a>
+<figcaption>Ruddy Illanes</figcaption>
+</figure>
+</div>
+
+<div class="col25">
+<figure>
+<a href="https://www.linkedin.com/in/ochp7/">
+<img src="img/profile.png" style="width:100%" align="left">
+</a>
+<figcaption>Omar Chocotea</figcaption>
+</figure>
+</div>
+
+</div>
+
+<br>
+
+<div class="col100">
+
+<div class="col25">
+<figure>
+<a href="https://www.linkedin.com/in/reddy-tintaya-108142165/">
+<img src="img/profile.png" style="width:100%" align="left">
+</a>
+<figcaption>Reddy Tinaya</figcaption>
+</figure>
+</div>
+
+<div class="col25">
+<figure>
+<a href="https://www.linkedin.com/in/abigail-geronimo-895464109/">
+<img src="img/profile.png" style="width:100%" align="left">
+</a>
+<figcaption>Abigail Gerónimo</figcaption>
+</figure>
+</div>
+
+<div class="col25">
+<figure>
+<a href="https://www.linkedin.com/in/rvillca/">
+<img src="img/profile.png" style="width:100%" align="left">
+</a>
+<figcaption>Rafael Villca</figcaption>
+</figure>
+</div>
+
+<div class="col25">
+<figure>
+<a href="https://www.linkedin.com/in/mavino/">
+<img src="img/profile.png" style="width:100%" align="left">
+</a>
+<figcaption>Marco Vino</figcaption>
+</figure>
+</div>
+
+</div>
+
+<br>
+
+<div class="col100">
+
+<div class="col25">
+<figure>
+<a href="https://www.linkedin.com/in/stanley-salvatierra/">
+<img src="img/profile.png" style="width:100%" align="left">
+</a>
+<figcaption>Stanley Salvatierra</figcaption>
+</figure>
+</div>
+
+<div class="col25">
+<figure>
+<a href="https://www.linkedin.com/in/juan-carlos-sanjines-castro-482131194/">
+<img src="img/profile.png" style="width:100%" align="left">
+</a>
+<figcaption>Juan Carlos Sanjines</figcaption>
+</figure>
+</div>
+
+<div class="col25">
+<figure>
+<a href="https://www.linkedin.com/in/renan-a%C3%B1ez-merlin-5a525339/">
+<img src="img/profile.png" style="width:100%" align="left">
+</a>
+<figcaption>Renan Añez</figcaption>
+</figure>
+</div>
+
+<div class="col25">
+<figure>
+<a href="">
+<img src="img/profile.png" style="width:100%" align="left">
+</a>
+<figcaption>Jorge Padilla</figcaption>
+</figure>
+</div>
+
+</div>
+
+<div class="col100">
+<br>
+</div>
+
+## Organizaciones colaboradoras
+
+<br>
+<center>
+<a href="https://www.facebook.com/ccd.bolivia.bo">
+<img src="img/ccd-bo-tri.png" style="width:30%; margin-left: 20px" align="center">
+</a>
+</center>
